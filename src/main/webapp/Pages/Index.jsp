@@ -23,6 +23,7 @@
             align-items: center;
             animation: fadeInDown 1s ease;
         }
+        
 
 
         nav ul {
